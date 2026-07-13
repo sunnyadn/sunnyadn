@@ -1,6 +1,6 @@
 # Sunny Yang
 
-Full-stack engineer (6 years) working in AI engineering: agent frameworks, RAG systems, and ML infrastructure. MCS student at UIUC.
+AI and full-stack engineer working on agent frameworks, RAG, and ML infrastructure, plus applied ML research. MCS student at UIUC.
 
 - [trustgraph](https://github.com/trustgraph-ai/trustgraph): shipped retrieval and multimodal upgrades across v2.6.9–v2.7.5: cross-encoder reranking, hybrid retrieval (BM25 + vector with RRF fusion), inline source attribution for RAG answers, and a pluggable image-to-text service for vision models.
 - [AgentQuant](https://github.com/nlpquant/AgentQuant): open-source AI agent platform that turns natural-language trading ideas into quantitative backtests. Top 3 at the NVIDIA AI Hackathon, 2025.
