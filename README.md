@@ -1,6 +1,6 @@
 # Sunny Yang
 
-AI/ML engineer and applied researcher working on evaluation infrastructure, agent frameworks, and RAG systems. I ship open-source used in production by teams at MongoDB and LINE. I also work on AI safety, fine-tuning model organisms with hidden objectives and building detectors for them. Research fellow at AI Alignment @ Illinois. MCS student at UIUC.
+Incoming Anthropic Research Fellow. AI/ML engineer and applied researcher working on evaluation infrastructure, agent frameworks, and RAG systems. I ship open-source used in production by teams at MongoDB and LINE. I also work on AI safety, fine-tuning model organisms with hidden objectives and building detectors for them. Research fellow at AI Alignment @ Illinois. MCS student at UIUC.
 
 - [inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai): the UK AI Security Institute runs its frontier model evaluations on this framework. I work on its agent bridge, the piece that lets outside coding agents be scored against Inspect models. My work there spans all three provider integrations: OpenAI, Anthropic and Google.
 - [trustgraph](https://github.com/trustgraph-ai/trustgraph): production RAG and agent framework. I built out its retrieval and multimodal layer: cross-encoder reranking, hybrid BM25 and vector search, source attribution, and vision input. All of it shipped in production releases.
